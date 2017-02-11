@@ -1,0 +1,8 @@
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\bin\Debug\PSGMod_Demo.exe
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\bin\Debug\PSGMod_Demo.pdb
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.csprojResolveAssemblyReference.cache
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.Form1.resources
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.Properties.Resources.resources
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.csproj.GenerateResource.Cache
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.exe
+c:\users\zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\PSGMod_Demo\obj\Debug\PSGMod_Demo.pdb

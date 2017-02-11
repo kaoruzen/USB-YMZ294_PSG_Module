@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSGMod_Demo", "PSGMod_Demo\PSGMod_Demo.csproj", "{192F6F3D-D10D-4A3C-B6E8-628B53172AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMFPlay", "SMFPlay\SMFPlay.csproj", "{0E69EE2A-9427-4457-8368-6D9F1D8713D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192F6F3D-D10D-4A3C-B6E8-628B53172AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192F6F3D-D10D-4A3C-B6E8-628B53172AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192F6F3D-D10D-4A3C-B6E8-628B53172AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192F6F3D-D10D-4A3C-B6E8-628B53172AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E69EE2A-9427-4457-8368-6D9F1D8713D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E69EE2A-9427-4457-8368-6D9F1D8713D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E69EE2A-9427-4457-8368-6D9F1D8713D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E69EE2A-9427-4457-8368-6D9F1D8713D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

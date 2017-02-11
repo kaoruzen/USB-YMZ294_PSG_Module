@@ -17,3 +17,7 @@ Yamaha YMZ294 PSG Sound LSI Controller.
 *MPLAB C18 v3.47 Lite (PIC18F2550 Firmware)
 
 *C# VisualStudio2015 (PC ControlSoftware)
+
+
+C# Project - SMFPlay contains "SmfLite.cs" by Keijiro Takahashi. --Thanks.
+[SmfLite - A minimal class library for handling standard MIDI files on Unity.](https://github.com/keijiro/smflite)

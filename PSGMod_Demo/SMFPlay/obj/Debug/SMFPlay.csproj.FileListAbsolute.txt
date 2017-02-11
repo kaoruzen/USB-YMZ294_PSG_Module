@@ -1,0 +1,8 @@
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\bin\Debug\SMFPlay.exe
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\bin\Debug\SMFPlay.pdb
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.csprojResolveAssemblyReference.cache
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.Properties.Resources.resources
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.csproj.GenerateResource.Cache
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.exe
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.pdb
+C:\Users\Zenyouji\documents\visual studio 2015\Projects\PSGMod_Demo\SMFPlay\obj\Debug\SMFPlay.Form1.resources
