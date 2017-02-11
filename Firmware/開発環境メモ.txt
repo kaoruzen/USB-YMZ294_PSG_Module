@@ -1,0 +1,2 @@
+MPLAB X IDE v3.26
+mplabc18-v3.47 lite
